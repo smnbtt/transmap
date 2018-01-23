@@ -7,11 +7,11 @@ Gem::Specification.new do |spec|
   spec.name          = "transmap"
   spec.version       = Transmap::VERSION
   spec.authors       = ["Simone Bottecchia"]
-  spec.email         = ["simone@crunchbase.com"]
+  spec.email         = ["simone.bottecchia@gmail.com"]
 
-  spec.summary       = %q{: Write a short summary, because Rubygems requires one.}
-  spec.description   = %q{: Write a longer description or delete this line.}
-  spec.homepage      = "https://test.com"
+  spec.summary       = %q{: Simple library for serializing and deserializing}
+  spec.description   = %q{: Simple library for serializing and deserializing}
+  spec.homepage      = "https://github.com/smnbtt/transmap"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
